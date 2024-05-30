@@ -58,7 +58,8 @@ python lp.py --load_ckpt c100_sup.pth --config-file configs/my_resnet_mlp1000_no
 ```
 
 
-
+## Pretrained models
+Please check the models [here](https://drive.google.com/drive/folders/1sX0DX417HoEHmHkZHvXUHK-ysvTionlr?usp=sharing)
 
 ### Citing
 
